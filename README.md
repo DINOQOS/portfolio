@@ -12,10 +12,7 @@ This project is licensed under the terms of the MIT license.
 
   <br />
 
-어려울 것 같다구요? 댓츠노노.</br>`markdown` 과 `json`만 작성할 줄 안다면, 손쉽게 만들 수 있어요!😇
 
-  <br />
-  
 ### 사용된 기술
 `next.js` `typescript` `tailwind` `next-seo` `react-markdown`
   
@@ -661,7 +658,7 @@ theme: {
  */
 const DEFAULT_SEO = {
   title: "홍길동 | Front-End Dev",
-  description: "안녕하세요, 프론트엔드 개발자 홍길동입니다.",
+  description: "안녕하세요, ML 백앤드 개발자 장정우입니다.",
   canonical: "https://www.naver.com/",
   openGraph: {
     type: "website",
