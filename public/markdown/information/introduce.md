@@ -1,7 +1,6 @@
-- Hoo-ooh-ooh-ooh
-- Hoo-ooh-ooh-ooh
-- Stay in the middle
-- Like you a little
-- Don't want no riddle
-- 말해줘 say it back, oh, say it ditto
-- 아침은 너무 멀어 so say it ditto
+- 개발을 통해서 세상을 이롭게 바꾸고 싶어요.
+- 다양한 모델을 Fine tuning하여 model serving을 경험 해 보았어요. 
+- ComputerVision 분야를 공부할 수 있는 기회가 있어서, VisionAI를 자주 사용해 보았어요.
+- 지속적으로 NLP등 다양한 AI분야를 공부하는 중이에요.
+- Java, Python Back-end도 꾸준히 공부하는 중이에요.
+- 좋은 개발자로서 오늘보다 내일이 더 기대되는 세상을 만들고 싶어요.
