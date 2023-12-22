@@ -10,7 +10,7 @@ const Information = ({ information }: Pick<DataProps, "information">) => {
         <h1 className="leading-[1.15]">
           {/* 포지션에 맞게 문구를 수정해주세요. 혹은, 본인이 원하는 대로 문구를 바꿔주세요. */}
           안녕하세요,
-          <br /> ML/AI엔지니어 백앤드 개발자{" "}
+          <br /> 세상을 이롭게 바꾸고싶은 개발자{" "}
           <span className="text-PRIMARY font-semibold">{information.name}</span>
           입니다.
         </h1>
