@@ -9,11 +9,11 @@ import type { AppProps } from "next/app";
 const DEFAULT_SEO = {
   title: "장정우 | ML, Beck-End Dev",
   description: "안녕하세요, ML 백앤드 개발자 장정우입니다.",
-  canonical: "https://www.naver.com/",
+  canonical: "https://dinoqos.vercel.app/",
   openGraph: {
     type: "website",
     locale: "ko_KR",
-    url: "https://www.naver.com/",
+    url: "https://dinoqos.vercel.app/",
     title: "장정우 | ML, Beck-End Dev",
     site_name: "장정우 | ML, Beck-End Dev",
     images: [
