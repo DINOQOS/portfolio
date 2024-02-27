@@ -14,15 +14,9 @@
 
   "workExperience": [
     {
-      "id": 0,
-      "name": "국가직 9급 공무원 (군무원)",
-      "position": "대형차량 정비 및 운전 담당",
-      "period": ["2021. 12", "2021. 09"]
-    },
-    {
       "id": 1,
       "name": "(주)아이와즈",
-      "position": "지능화기술연구",
+      "position": "지능화기술연구(인턴)",
       "period": ["2023. 07", "2023. 08"]
     }
   ],
@@ -30,20 +24,19 @@
   "project": [
     {
       "id": 0,
-      "name": "Inceptionv3 모델을 활용한 체중관리서비스 'Hungry Bear'",
+      "name": "Inceptionv3 모델을 활용한 체중관리서비스 'Hungry Bear' (4인)",
       "description": "AI를 활용한 식습관 개선을 통해 모두 건강한 생활을 만들고 싶어요.",
-      "webUrl": "https://github.com/DINOQOS/",
-      "repoUrl": "https://dinoqos.tistory.com/6",
+      "webUrl": "https://dinoqos.tistory.com/6",
+      "repoUrl": "https://github.com/DINOQOS/HungryBear_jungwoo",
       "isTeam": true,
       "period": ["2023. 07", "2023. 08"],
-      "stack": ["Python", "tenserflow", "keras", "HTML/CSS", "Flask", "MySql"]
+      "stack": ["Python", "tensorflow", "keras", "HTML/CSS", "Flask", "MySql"]
     },
     {
       "id": 1,
-      "name": "도로노면 훼손탐지 애플리케이션 '도타미'",
+      "name": "도로노면 훼손탐지 애플리케이션 '도타미'(3인)",
       "description": "대한민국의 도로안전 향상에 기여와 공무원분들의 도로 위 유지보수에 큰 도움이 되고싶어요.",
-      "webUrl": "https://dinoqos.tistory.com/",
-      "repoUrl": "https://github.com/DINOQOS/",
+      "repoUrl": "https://github.com/DINOQOS/dotami_project",
       "isTeam": true,
       "period": ["2023. 09", "2023. 12"],
       "stack": ["java", "Python", "Figma", "AWS", "Apache", "Flask", "Android studio", "YOLOv8"]
@@ -52,22 +45,51 @@
       "id": 2,
       "name": "칼로리 정보가 포함된 '하남돼지' 데이터베이스",
       "description": "돼지고기에 대한 수요가 많아져서 돼지고기를 파는 식당도 기하급수적으로 늘어나고 있고, 가게를 체계적으로 관리할 수 있는 데이터베이스가 구축되어야 한다고 생각해서 만들어 봤어요.",
-      "webUrl": "https://github.com/DINOQOS/",
-      "repoUrl": "https://dinoqos.tistory.com/5",
+      "webUrl": "https://dinoqos.tistory.com/5",
+      "repoUrl": "https://github.com/DINOQOS/hanam_DB",
       "isTeam": false,
       "period": ["2023. 07", "2023. 07"],
       "stack": ["MS-SQL"]
     },
     {
       "id": 3,
+      "name": "딥러닝 기반 도로노면 자동탐지 AI 경진대회",
+      "description": "AI를 통해 도로의 안전을 지켜요.",
+      "repoUrl": "https://github.com/DINOQOS/LoadSegmentation",
+      "isTeam": false,
+      "period": ["2023. 07", "2023. 08"],
+      "stack": ["Python", "Pytorch", "jupyterlab", "Ubuntu","YOLOv5, v7, v8"]
+    },
+    {
+      "id": 4,
       "name": "관상가 양반, 내 관상좀 봐주게.",
       "description": "자신의 MBTI가 궁금한 것 처럼 관상도 궁금해하는 사용자가 있을거라고 생각했어요.",
-      "webUrl": "https://github.com/DINOQOS/",
-      "repoUrl": "https://dinoqos.tistory.com/",
+      "webUrl": "https://dinoqos.tistory.com/67",
+      "repoUrl": "https://github.com/DINOQOS/WhatsYourFace",
       "isTeam": false,
-      "period": ["2023. 11", "Now"],
-      "stack": ["Python", "java", "JSP", "MySql","tenserflow","Keras", "NumPy", "Pandas", "Flask"]
+      "period": ["2023. 11", "2023. 12"],
+      "stack": ["Python", "java", "JSP", "MySql","tensorflow","Keras", "NumPy", "Pandas", "Flask"]
+    },
+    {
+      "id": 5,
+      "name": "모두의 레시피",
+      "description": "Springboot를 이용한 프로젝트로 회원가입, 로그인, 게시물, 추천 ,비추천, 사진 등 여러가지를 활용하여 응용해볼 수 있는 주제인 ‘나만의 요리 레시피 커뮤니티’가 적합하다고 생각했어요",
+      "webUrl": "https://dinoqos.tistory.com/67",
+      "repoUrl": "https://github.com/DINOQOS/WhatsYourFace",
+      "isTeam": true,
+      "period": ["2023. 01", "2023. 02"],
+      "stack": ["Python", "java", "HTML/CSS/JS", "JSP", "MySql", "Spring boot", "Flask", "tensorflow", "Keras", "NumPy", "Pandas", "EC2 RDS S3", "Docker"]
+    },
+    {
+      "id": 6,
+      "name": "MLOps",
+      "description": "MLflow를 활용해서 좋은 모델을 만들고, 잘 serving하고 싶어요.",
+      "webUrl": "https://dinoqos.tistory.com/category/Tech%20Stack/MLflow",
+      "isTeam": false,
+      "period": ["2024. 02", "2023. 03"],
+      "stack": ["Python", "MLflowa", "Docker", "minio", "Postgresql", "FastAPI", "tensorflow", "Keras", "Pandas", "RDS"]
     }
+
   ],
 
   "activity": [
@@ -75,25 +97,25 @@
       "id": 0,
       "name": "대전관저고등학교 학생부회장",
       "period": ["2015. 04", "2015. 12"],
-      "description": "힙합동아리 초대 회장을 맡았으며 공연을 기획하고 무대를 구성하였습니다. 다음은 저의 음악이 담긴 SoundCloud입니다. https://soundcloud.com/dinoqos"
+      "description": "고등학교에서 친구들에게 좋은 인상을 남기고 학생부회장으로 당선이 됐어요."
     },
     {
       "id": 1,
       "name": "건양대학교 힙합동아리 'HENNIS'",
       "period": ["2017. 08", "2021. 05"],
-      "description": "힙합동아리 초대 회장을 맡았으며 공연을 기획하고 무대를 구성하였습니다. 다음은 저의 음악이 담긴 SoundCloud입니다. https://soundcloud.com/dinoqos"
+      "description": "힙합동아리 초대 회장을 맡았으며 공연을 기획하고 무대를 구성하였어요. 다음은 저의 음악이 담긴 SoundCloud이에요. https://soundcloud.com/dinoqos"
     },
     {
       "id": 2,
       "name": "DSC공유대학 융합동아리 '충청사나이들'",
       "period": ["2023. 07", "Now"],
-      "description": "팀장을 맡았으며 동아리원들과 함께 알고리즘 스터디를 진행하였습니다."
+      "description": "팀장을 맡았으며 동아리원들과 함께 알고리즘 스터디를 진행하였어요."
     },
     {
       "id": 3,
       "name": "건양대학교 제27대 총학생회 '비상'",
       "period": ["2023. 01", "2023. 12"],
-      "description": "사무국장을 맡았으며 학교로 발송해야 할 공문서 총괄 및 총부총학생회장 대행 업무를 맡았습니다."
+      "description": "사무국장을 맡았으며 학교로 발송해야 할 공문서 총괄 및 총부총학생회장 대행 업무를 맡았어요."
     }
   ],
 
@@ -102,13 +124,13 @@
       "id": 0,
       "name": "자이트론 자율주행모형차기술교육캠프",
       "period": ["2023. 06", "2023. 07"],
-      "description": "자율주행을 하기위해 필요한 다양한기술을 배우며 컴퓨터비전 지식과 ROS, Python언어를 통해 장애물이 있는 트랙을 완주를 할 수 있었습니다."
+      "description": "자율주행을 하기위해 필요한 다양한기술을 배우며 컴퓨터비전 지식과 ROS, Python언어를 통해 장애물이 있는 트랙을 완주를 할 수 있었어요."
     },
     {
       "id": 1,
       "name": "우리FISA AI엔지니어링 2기",
       "period": ["2023. 11", "Now"],
-      "description": "우리FISA에서 AI엔지니어링 과정을 교육받고있으며, ML/AI엔지니어, DBA, 개발자의 꿈을 꾸고 있습니다."
+      "description": "우리FISA에서 AI엔지니어링 과정을 교육받고있으며, ML/AI엔지니어, DBA, 개발자의 꿈을 꾸고 있어요."
     }
   ],
 
@@ -136,24 +158,17 @@
   "award": [
     {
       "id": 0,
-      "name": "제23회대전광역시교육감기태권도대회 금메달",
-      "date": "2012. 11. 11",
-      "organizer": "대전시태권도협회",
-      "description": "학교대표로 태권도 겨루기대회에 참가하여 금메달을 수상 했어요."
+      "name": "딥러닝 기반 도로노면 자동탐지(로드아이즈) AI 경진대회 장려상(3위)",
+      "date": "2023. 08. 18",
+      "organizer": "한국기술교육대학교, 아이와즈",
+      "description": "YOLOv8을 Finetuning하여 도로노면에 있는 BumpHigh, Crosswalk의 훼손률을 high, middle, low 3개의 클래스로 탐지 할 수 있는 모델을 개발하였어요."
     },
     {
       "id": 1,
-      "name": "교육성적우수 연대장표창장",
-      "date": "2023. 08. 18",
-      "organizer": "대한민국 육군",
-      "description": "육군훈련소에서 열심히 교육과 훈련을 최선을 다 하여 좋은 성적을 얻을 수 있었어요."
-    },
-    {
-      "id": 2,
-      "name": "딥러닝 기반 도로노면 자동탐지(로드아이즈) AI 경진대회",
-      "date": "2019. 05. 30",
-      "organizer": "한국기술교육대학교, 아이와즈",
-      "description": "YOLOv8을 Finetuning하여 도로노면에 있는 BumpHigh, Crosswalk의 훼손률을 high, middle, low 3개의 클래스로 탐지 할 수 있는 모델을 개발하였습니다"
+      "name": "리빙랩 캡스톤 디자인 우수성과 공유회 대상(1위)",
+      "date": "2023. 12. 21",
+      "organizer": "DSC공유대학",
+      "description": "공무원 분들의 도로노면 유지보수를 위한 어플리케이션을 개발하여 출품 하였어요."
     }
   ]
 }

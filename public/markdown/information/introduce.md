@@ -1,6 +1,7 @@
-- 개발을 통해서 세상을 이롭게 바꾸고 싶어요.
-- 다양한 모델을 Fine tuning하여 model serving을 경험 해 보았어요. 
-- ComputerVision 분야를 공부할 수 있는 기회가 있어서, VisionAI를 자주 사용해 보았어요.
-- 지속적으로 NLP등 다양한 AI분야를 공부하는 중이에요.
-- Java, Python Back-end도 꾸준히 공부하는 중이에요.
+- 배우는 걸 즐거워해서 공부를 멈추지 않아요.
+- 한번 시작한건 절대 놓치않고 끝까지 해결해요.
+- Docker컨테이너 환경에서 MLflow를 사용해보고, FastAPI로 모델을 서빙해보았어요.
+- ComputerVision과 VisionAI를 자주 사용 해 보았어요.
+- NLP, BERT와 StableDiffusion 등 다양한 AI분야를 공부하는 중이에요.
+- Java, Python MVC패턴으로 개발해보았어요.
 - 좋은 개발자로서 오늘보다 내일이 더 기대되는 세상을 만들고 싶어요.

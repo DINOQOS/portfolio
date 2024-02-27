@@ -3921,7 +3921,7 @@ next-themes@^0.2.1:
   resolved "https://registry.npmjs.org/next-themes/-/next-themes-0.2.1.tgz"
   integrity sha512-B+AKNfYNIzh0vqQQKqQItTS8evEouKD7H5Hj3kmuPERwddR2TxvDSFZuTj6T7Jfn1oyeUyJMydPl1Bkxkh0W7A==
 
-next@*, "next@^8.1.1-canary.54 || >=9.0.0", next@13.1.5:
+next@*, next@^13.1.5, "next@^8.1.1-canary.54 || >=9.0.0":
   version "13.1.5"
   resolved "https://registry.npmjs.org/next/-/next-13.1.5.tgz"
   integrity sha512-rmpYZFCxxWAi2nJCT9sSqMLGC3cu+Pf689hx9clcyP0KbVIhh/7Dus5QcKrVd/PrAd6AjsuogSRR1mCP7BoYRw==
